@@ -1,7 +1,7 @@
 {
   "name": "corona_test",
   "version": "0.1.0",
-  "homepage": "https://aadiyaara.github.io/corona-test/",
+  "homepage": "https://aadiyaara.github.io/corona_test/",
   "private": true,
   "dependencies": {
     "@amcharts/amcharts4": "^4.9.12",
