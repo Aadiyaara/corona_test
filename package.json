@@ -4,7 +4,7 @@
   "homepage": "https://aadiyaara.github.io/corona_test/",
   "private": true,
   "dependencies": {
-    "@amcharts/amcharts4": "^4.9.12",
+    "@amcharts/amcharts4": "^4.10.40",
     "@amcharts/amcharts4-geodata": "^4.1.14",
     "@material-ui/core": "^4.9.9",
     "@testing-library/jest-dom": "^4.2.4",
